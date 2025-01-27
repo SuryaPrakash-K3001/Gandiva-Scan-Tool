@@ -1,0 +1,6 @@
+Port Scan Report for 10.0.2.15
+Scan started at: 2025-01-27 17:03:42.313199
+
+No open ports found.
+
+Scan completed at: 2025-01-27 17:03:42.313199
